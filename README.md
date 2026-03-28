@@ -25,12 +25,12 @@ The goal is to extract meaningful insights related to:
 
 ---
 
-## 🗂️ Project Structure
+```## 🗂️ Project Structure
 Shopping-Trends-Analysis/
 ├── shopping.ipynb # EDA notebook
 ├── shopping_trends_updated.csv # Dataset
 └── README.md # Documentation
-
+```
 
 ---
 
